@@ -36,8 +36,7 @@ O que é requerido na atividade:
 + Segurança de backup de dados;
 + Persistência dos dados;
 + Balanceamento de carga com healthcheck;
-+ Segurança (liberar somente o
-+ necessário/mínimo acesso possível).
++ Segurança (liberar somente o necessário/mínimo acesso possível).
 
 _Objetivo: Monte a proposta e a arquitetura do que o grupo propõe entregar._
 
