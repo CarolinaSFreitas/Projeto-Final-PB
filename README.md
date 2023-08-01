@@ -7,7 +7,7 @@
 ### 👥 Integrantes do Grupo:
 - Carolina Freitas
 - Gabriel Torino
-- 
+- Kéren Olmedo
 
 ## 🔎 CASE:
 
