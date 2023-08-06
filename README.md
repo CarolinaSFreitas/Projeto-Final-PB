@@ -45,7 +45,7 @@ _Objetivo: Monte a proposta e a arquitetura do que o grupo propõe entregar._
 A arquitetura atual da Fast Engineering não está acompanhando o aumento de acessos e compras no eCommerce devido a um crescimento mensal de 20%.
 
 <div align="center">
-  <img src="/src/arq-antiga.jpeg" width="340px">
+  <img src="/src/arq-antiga.jpeg" width="650px">
    <p><em>Arquitetura atual da Fast Engineering</em></p>
 </div>
 
