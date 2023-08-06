@@ -40,3 +40,10 @@ O que é requerido na atividade:
 
 _Objetivo: Monte a proposta e a arquitetura do que o grupo propõe entregar._
 
+##
+
+A arquitetura atual da Fast Engineering não está acompanhando o aumento de acessos e compras no eCommerce devido a um crescimento mensal de 20%.
+![image](https://github.com/CarolinaSFreitas/Projeto-Final-PB/assets/99994934/b0a9093e-e132-47ec-a957-fd7d354c5758)
+
+
+
