@@ -66,7 +66,7 @@ A nova solução de arquitetura também possui alinhamento com os pilares da AWS
   + Sustentabilidade 
 
 <div align="center">
-  <img src="/src/pilares.png" width="340px">
+  <img src="/src/pilares.png" width="550px">
    <p><em>Pilares da AWS Well-Architected Framework</em></p>
 </div>
 
@@ -144,7 +144,7 @@ A nova solução de arquitetura também possui alinhamento com os pilares da AWS
 
 ##
 
-  
+
 
 
 
