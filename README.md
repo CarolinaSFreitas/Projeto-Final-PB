@@ -184,10 +184,10 @@ Com essa abordagem, podemos realizar a migração com o mínimo de impacto para 
 **Link da Calculadora AWS: https://calculator.aws/#/estimate?id=e0dfe38d345269ef43277b221e7e8a3da861f288**
 
 * Custo mensal: 
- * **1.854,84 USD**
+ **1.854,84 USD**
 
 * Custo total de 12 meses:
- * **22.258,08 USD**
+ **22.258,08 USD**
 
 <div align="center">
   <img src="/src/estimativa-arq.jpeg" width="720px">
