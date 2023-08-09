@@ -179,8 +179,20 @@ Com essa abordagem, podemos realizar a migração com o mínimo de impacto para 
 
 # 💰 Valores
 
-<valores da arquitetura>
-<valores da mão de obra>
+## Estimativa de custo da nova arquitetura
+
+**Link da Calculadora AWS: https://calculator.aws/#/estimate?id=e0dfe38d345269ef43277b221e7e8a3da861f288**
+
++ Custo mensal: 
+ + **1.854,84 USD**
+
++Custo total de 12 meses:
+ + **22.258,08 USD**
+
+<div align="center">
+  <img src="/src/estimativa-arq.jpeg" width="720px">
+   <p><em>Estimativa de custo da nova arquitetura</em></p>
+</div>
 
 # 📬 Entregas
 
@@ -188,16 +200,21 @@ Com essa abordagem, podemos realizar a migração com o mínimo de impacto para 
 
 + Implementação da arquitetura: **20 dias úteis**.
 
+• Equipe de 3 pessoas:
+  - Trabalhando 8 horas por dia
+  - Ao longo de 20 dias úteis
+  - Total de 480 horas para a entrega
+
 ### Cronograma Macro de Entregas
 
 <div align="center">
-  <img src="/src/cronograma.jpeg" width="720px">
-   <p><em>Cronograma Macro de Entregas feito com Kanban</em></p>
+  <img src="/src/cronograma2.jpeg" width="720px">
+   <p><em>Cronograma Macro de Entregas</em></p>
 </div>
 
 ## 🔗 Links úteis:
 
-- Cronograma de entregas feito com o método Kanban: https://abre.ai/cronograma-de-entregas
+- Cronograma macro de entregas: https://abre.ai/cronograma-macro
 - Diagrama da nova Arquitetura: https://abre.ai/nova-arquitetura
 
 ## 📑 Referências:
