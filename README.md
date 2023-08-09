@@ -151,10 +151,10 @@ A nova solução de arquitetura também possui alinhamento com os pilares da AWS
 
   Nessa abordagem, integramos os seguintes serviços da AWS, que desempenham papéis fundamentais em automatizar o ciclo de vida de desenvolvimento, construção e implantação de aplicações:
 
-    + AWS CodeCommit
-    + AWS CodeBuild
-    + AWS CodeDeploy
-    + AWS CodePipeline
+  + AWS CodeCommit
+  + AWS CodeBuild
+  + AWS CodeDeploy
+  + AWS CodePipeline
 
   **AWS CodeCommit**: É um serviço de hospedagem de repositórios de controle de versão privados. Ele fornece um ambiente seguro e escalável para armazenar e gerenciar código-fonte. Com recursos de controle de acesso baseados em IAM, permite colaborações de maneira eficiente, controle de versões e rastreio de alterações ao longo do tempo.
 
@@ -191,7 +191,7 @@ Com essa abordagem, podemos realizar a migração com o mínimo de impacto para 
 ### Cronograma Macro de Entregas
 
 <div align="center">
-  <img src="/src/cronograma.jpeg" width="580px">
+  <img src="/src/cronograma.jpeg" width="720px">
    <p><em>Cronograma Macro de Entregas feito com Kanban</em></p>
 </div>
 
