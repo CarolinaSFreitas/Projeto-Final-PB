@@ -53,7 +53,7 @@ A arquitetura da nova solução busca resolver os desafios atuais da Fast Engine
 Essa solução garantirá o acompanhamento de crescimento contínuo do eCommerce, seguindo as melhores práticas DevOps. 
 
 <div align="center">
-  <img src="/src/nova-arq2.png" width="650px">
+  <img src="/src/nova-arq2.png" width="735px">
    <p><em>Arquitetura nova</em></p>
 </div>
 
@@ -138,7 +138,7 @@ A nova solução de arquitetura também possui alinhamento com os pilares da AWS
     *Solução*: Automação e rastreabilidade na criação e atualização de recursos de infraestrutura.
 
 <div align="center">
-  <img src="/src/nova-arq2.png" width="650px">
+  <img src="/src/nova-arq2.png" width="735px">
    <p><em>Arquitetura nova</em></p>
 </div>
 
